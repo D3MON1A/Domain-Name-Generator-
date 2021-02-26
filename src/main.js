@@ -6,9 +6,9 @@ import "./assets/img/rigo-baby.jpg";
 import "./assets/img/4geeks.ico";
 
 window.searchDomains = function searchDomains() {
-  var pronoun = ["the", "our", "your"];
-  var adj = ["great", "big", "amazing", "enticing"];
-  var noun = ["jogger", "racoon", "bloop", "poop"];
+  var pronoun = ["the", "our", "your", "my"];
+  var adj = ["great", "big", "amazing", "awesome"];
+  var noun = ["jogger", "racoon", "dragon", "developer"];
   var extension = [".com", ".net", ".us", ".io"];
 
   for (var i = 0; i < pronoun.length; i++) {
